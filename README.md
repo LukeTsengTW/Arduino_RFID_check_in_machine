@@ -2,6 +2,13 @@
 
 This RFID (Radio Frequency Identification system) was combined into a sign-in machine by me. The motivation for making this set of devices was inspired by my classmates who said to me, "I can create a sign-in machine."
 
+# Version（版本歷史）
+
+1.0.0 - Release
+
+1.0.1 - Make the code look more concise and maintainable.
+(使程式碼看起來更簡潔且具維護性)
+
 # Librarys （函式庫）
 
 New-LiquidCrystal : https://github.com/fmalpartida/New-LiquidCrystal/tree/master
