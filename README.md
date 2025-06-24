@@ -2,7 +2,7 @@
 
 This RFID (Radio Frequency Identification system) was combined into a sign-in machine by me. The motivation for making this set of devices was inspired by my classmates who said to me, "I can create a sign-in machine."
 
-# Version（版本歷史）
+## Version（版本歷史）
 
 1.0.0 - Release
 
@@ -15,7 +15,7 @@ New-LiquidCrystal : https://github.com/fmalpartida/New-LiquidCrystal/tree/master
 
 MFRC522 : https://www.arduino.cc/reference/en/libraries/mfrc522/
 
-# Material (reference) （素材（參考用））
+## Material (reference) （素材（參考用））
 
 - Arduino Uno x 1
 - RFID x 1
@@ -24,7 +24,7 @@ MFRC522 : https://www.arduino.cc/reference/en/libraries/mfrc522/
 - BreadBoard x 1 （麵包板 x 1）
 - Buzzer x 1 （蜂鳴器 x 1）
 
-# Comments Language & Introduction （註解語言 & 基本介紹）
+## Comments Language & Introduction （註解語言 & 基本介紹）
 
 Comments Language : Traditional Chinese
 
@@ -41,5 +41,15 @@ Simple Explanation of the Principle: Magnetic cards serve as RFID sensors, with 
 本程式主要用於打卡機（check-in or sign-in）與 RFID 技術的結合，能夠使用磁卡與 RFID 裝置進行感應。
 
 簡易原理解釋 : 磁卡做為 RFID 的感應器，每一個磁卡都具有 RFID Tag，要辨識磁卡我們就需要 RFID Tag。磁卡與 RFID 利用電磁感應進行感應，會透過天線發射無線電波，這些無線電波會產生一個電磁場，而當磁卡靠近 RFID 時，則會產生感應電流，此時 RFID 就會透過感應電流感應到磁卡的存在。
+
+## Screenshots
+
+Here is photo of the first version:
+
+![first_screenshot](https://github.com/user-attachments/assets/7e96be9d-7ce3-43af-8e60-973b1c18571b)
+
+Here is photo of the second version:
+
+![second_screenshot](https://github.com/user-attachments/assets/f7b3b4b1-9ab5-44ed-9a1a-5f03867ab475)
 
 made by LukeTseng ( 鼓山高中 _ 電腦社社長 ).
